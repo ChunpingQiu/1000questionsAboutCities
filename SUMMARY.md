@@ -1,8 +1,7 @@
 ```
 * [Introduction](README.md)
-* [Fact?]
-* [What is what](chapter1.md)
-* 
+* [Fact?](someFacts.md)
+* [What is what](Definitions.md)
 ```
 
 
