@@ -1,5 +1,7 @@
 # Related but different
 
+There are no standards before there are. This is not as surprising as it might sound. If we do not have a univerally used dataset/product yet, it is somehow not nucessary to have a well-acceted name for it. We have some related datasets about urban, each of which has its own definition, according to the data/methods used to created that product. As data users, we need to know what we are really using, and as data providers, we need to know what we are actually providing. And not that fast to be shocked when reading news from social media about global urbanization. I think urbaization is truelly happening, but to what extent? It is hard to say, yet.
+
 ## Urban (boundary/extent)
 - Li X , Gong P , Zhou Y , et al. Mapping global urban boundaries from the global artificial impervious area (GAIA) data[J]. Environmental Research Letters, 2020, 15(9). Data: http://data.ess.tsinghua.edu.cn.
  
