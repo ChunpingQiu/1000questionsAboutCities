@@ -1,0 +1,6 @@
+ "plugins": ["bibtex-indexed-cite"],
+
+
+ "bibtex-indexed-cite": {
+            "path": "/"
+        }
